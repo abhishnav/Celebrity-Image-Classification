@@ -1,0 +1,2 @@
+cnnpath filter=lfs diff=lfs merge=lfs -text
+cnn_celebreties.py filter=lfs diff=lfs merge=lfs -text
