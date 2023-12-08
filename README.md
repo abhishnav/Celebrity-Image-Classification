@@ -1,4 +1,4 @@
-#CELEBRITY IMAGE CLASSIFIER
+# CELEBRITY IMAGE CLASSIFIER
 
 **Summary of the Chosen Model, Training Process, and Critical Findings**
 
